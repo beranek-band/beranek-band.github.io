@@ -1,1 +1,1 @@
-# beranek-band.github.io
+# beranek.band
